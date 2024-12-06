@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react native, springboot and angular.js**
 
-- 💬 Ask me about **react, java and node.js**
+- 💬 Ask me about **react, C# and node.js**
 
 - 📫 How to reach me **manee.fernando99@gmail.com**
 
